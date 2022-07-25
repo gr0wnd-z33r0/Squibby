@@ -1,2 +1,1 @@
-Hello
-Welcome
+Hello. I make ~~shitty~~ I mean **weird __obscure__ or useful programs** depending on how i feel that day.
