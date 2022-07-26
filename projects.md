@@ -1,5 +1,5 @@
-#### [PROJECTS](https://squibbywastaken.github.io/Squibby/projects.html) \
-#### [CONTACT](https://squibbywastaken.github.io/Squibby/contact.html) \
+#### [PROJECTS](https://squibbywastaken.github.io/Squibby/projects.html)
+#### [CONTACT](https://squibbywastaken.github.io/Squibby/contact.html)
 # PROJECTS
 ## Funner Runner
 A dodge the ... game designed to keep you thinking. All while listening to some banging tunes. \
