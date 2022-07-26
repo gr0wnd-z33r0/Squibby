@@ -3,4 +3,3 @@
 ### Now visit another part of the site! 
 #### [PROJECTS](https://squibbywastaken.github.io/Squibby/projects.html)
 #### [CONTACT](https://squibbywastaken.github.io/Squibby/contact.html)
-[biz.nf FREE WEB HOSTING](http://www.biz.nf?aid=MTkyNDE4MjQxOTIyMjQ=)
