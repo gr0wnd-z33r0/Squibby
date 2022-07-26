@@ -10,3 +10,4 @@ The repository is a mess at the moment. I wouldnt recomend downloading it right 
 Ever wanted to rickroll some mates from the terminal? \
 [GitHub Release](https://github.com/squibbywastaken/rick-termi-roll/releases/tag/no) \
 [GitHub Repository](https://github.com/squibbywastaken/rick-termi-roll)
+[<sub>biz.nf FREE HOSTING (AFFILIATE)</sub>](http://www.biz.nf?aid=MTkyNDE4MjQxOTIyMjQ=)
