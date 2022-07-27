@@ -4,3 +4,5 @@
 ## [Español](https://squibbywastaken.gq/es/indice.html)
 ## [中文（简体）](https://squibbywastaken.gq/zh/indexzh.html)
 ## [日本](https://squibbywastaken.gq/jp/indexjp.html)
+## [Deutsch](https://squibbywastaken.gq/de/index.html)
+## [עִברִית](https://squibbywastaken.gq/he/indexhe.html)
