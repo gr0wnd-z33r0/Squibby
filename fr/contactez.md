@@ -1,5 +1,5 @@
-#### [DOMICILE](https://squibbywastaken.github.io/Squibby/fr/indice.html)
-#### [PROJETS](https://squibbywastaken.github.io/Squibby/fr/projets.html)
+#### [DOMICILE](https://squibbywastaken.gq/fr/indice.html)
+#### [PROJETS](https://squibbywastaken.gq/fr/projets.html)
 # CONTACTEZ
 ## Pour les choses générales. Contactez contact@squibbywastaken.gq
 ## Pour de l'aide avec les choses. Contactez help@squibbywastaken.gq

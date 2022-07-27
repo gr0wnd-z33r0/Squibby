@@ -1,5 +1,5 @@
-#### [HOME](https://squibbywastaken.github.io/Squibby/index.html)
-#### [PROJECTS](https://squibbywastaken.github.io/Squibby/projects.html)
+#### [HOME](https://squibbywastaken.gq/index.html)
+#### [PROJECTS](https://squibbywastaken.gq/projects.html)
 # CONTACT
 ## For general things. Contact contact@squibbywastaken.gq
 ## For help with things. Contact help@squibbywastaken.gq
