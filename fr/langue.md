@@ -6,3 +6,4 @@
 ## [日本](https://squibbywastaken.gq/jp/indexjp.html)
 ## [Deutsch](https://squibbywastaken.gq/de/index.html)
 ## [עִברִית](https://squibbywastaken.gq/he/indexhe.html)
+## [हिन्दी](https://squibbywastaken.gq/hi/indexhi.html)
