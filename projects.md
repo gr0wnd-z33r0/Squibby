@@ -1,5 +1,4 @@
 #### [HOME](https://squibbywastaken.github.io/Squibby/index.html)
-#### [PROJECTS](https://squibbywastaken.github.io/Squibby/projects.html)
 #### [CONTACT](https://squibbywastaken.github.io/Squibby/contact.html)
 # PROJECTS
 ## Funner Runner
