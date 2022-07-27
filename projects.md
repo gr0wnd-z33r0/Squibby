@@ -10,3 +10,5 @@ The repository is a mess at the moment. I wouldnt recomend downloading it right 
 Ever wanted to rickroll some mates from the terminal? \
 [GitHub Release](https://github.com/squibbywastaken/rick-termi-roll/releases/tag/no) \
 [GitHub Repository](https://github.com/squibbywastaken/rick-termi-roll) \
+###### <sub>Contact: contact@squibbywastaken.gq</sub>
+###### <sub>Help: help@squibbywastaken.gq</sub>

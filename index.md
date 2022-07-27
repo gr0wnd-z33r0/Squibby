@@ -3,3 +3,5 @@
 ### Now visit another part of the site! 
 #### [PROJECTS](https://squibbywastaken.github.io/Squibby/projects.html)
 #### [CONTACT](https://squibbywastaken.github.io/Squibby/contact.html)
+###### <sub>Contact: contact@squibbywastaken.gq</sub>
+###### <sub>Help: help@squibbywastaken.gq</sub>
