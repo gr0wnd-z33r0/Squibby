@@ -1,5 +1,5 @@
-#### [DOMICILE](https://fr.squibbywastaken.github.io/Squibby/fr/index.html)
-#### [CONTACTEZ](https://fr.squibbywastaken.github.io/Squibby/fr/contact.html)
+#### [DOMICILE](https://squibbywastaken.github.io/Squibby/fr/index.html)
+#### [CONTACTEZ](https://squibbywastaken.github.io/Squibby/fr/contact.html)
 # PROJETS
 ## Funner Runner
 Un dodge the ... jeu conçu pour vous faire réfléchir. Tout en écoutant des airs percutants. \
@@ -11,4 +11,4 @@ Vous avez toujours voulu rickroller des potes depuis le terminal? \
 [Référentiel GitHub](https://github.com/squibbywastaken/rick-termi-roll) 
 ###### <sub>Contactez: contact@squibbywastaken.gq</sub>
 ###### <sub>Aider: help@squibbywastaken.gq</sub>
-###### <sub>[Langue](https://fr.squibbywastaken.gq/fr/langue.html)
+###### <sub>[Langue](https://squibbywastaken.gq/fr/langue.html)
