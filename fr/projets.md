@@ -1,5 +1,5 @@
 #### [DOMICILE](https://squibbywastaken.github.io/Squibby/fr/index.html)
-#### [CONTACTEZ](https://squibbywastaken.github.io/Squibby/fr/contact.html)
+#### [CONTACTEZ](https://squibbywastaken.github.io/Squibby/fr/contactez.html)
 # PROJETS
 ## Funner Runner
 Un dodge the ... jeu conçu pour vous faire réfléchir. Tout en écoutant des airs percutants. \
