@@ -7,3 +7,5 @@
 ## [Deutsch (AUSGEWÄHLT)](https://squibbywastaken.gq/de/index.html)
 ## [עִברִית](https://squibbywastaken.gq/he/indexhe.html)
 ## [हिन्दी](https://squibbywastaken.gq/hi/indexhi.html)
+## [عربي](https://squibbywastaken.gq/ar/indexar.html)
+## [Русский](https://squibbywastaken.gq/ru/indexru.html)
