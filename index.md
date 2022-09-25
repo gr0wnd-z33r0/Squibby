@@ -5,4 +5,3 @@
 #### [CONTACT](https://squibbywastaken.gq/contact.html)
 ###### <sub>Contact: contact@squibbywastaken.gq</sub>
 ###### <sub>Help: help@squibbywastaken.gq</sub>
-###### <sub>[Language](https://squibbywastaken.gq/language.html)

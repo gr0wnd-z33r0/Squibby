@@ -11,4 +11,3 @@ Ever wanted to rickroll some mates from the terminal? \
 [GitHub Repository](https://github.com/squibbywastaken/rick-termi-roll) 
 ###### <sub>Contact: contact@squibbywastaken.gq</sub>
 ###### <sub>Help: help@squibbywastaken.gq</sub>
-###### <sub>[Language](https://squibbywastaken.gq/language.html)
