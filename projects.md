@@ -1,3 +1,7 @@
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4307135493030411"
+     crossorigin="anonymous"></script>
+</head>
 #### [HOME](https://squibbywastaken.gq/index.html)
 #### [CONTACT](https://squibbywastaken.gq/contact.html)
 # PROJECTS
